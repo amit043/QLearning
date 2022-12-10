@@ -33,7 +33,7 @@ The idea is to make an agent optimize his reward/learning  within an environment
 ```
 Python3 Snake_agent.py
 ```
-
+![plot](./images/snake_game1.png) ![plot](./images/snake_game2.png)
 ## Authors
 
 Contributors names and contact info
